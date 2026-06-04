@@ -98,9 +98,7 @@ I work on high-impact ideas combining:
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ouissal-Hadji&theme=tokyonight" /> 
 </p>
