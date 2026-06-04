@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Wissal%20Hadji&fontSize=40&fontColor=ffffff" />
+</p>
 <h1 align="center">Hi 👋, I'm Ouissal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+3D+Builder;Problem+Solver;Always+Learning+New+Tech" />
