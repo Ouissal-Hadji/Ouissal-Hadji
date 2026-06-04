@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+3D+Builder;Problem+Solver;Always+Learning+New+Tech" />
-</p>
 <h1 align="center">Hi 👋, I'm Ouissal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+3D+Builder;Problem+Solver;Always+Learning+New+Tech" />
