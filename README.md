@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Wissal%20Hadji&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Ouissal%20Hadji&fontSize=40&fontColor=ffffff" />
 </p>
 <h1 align="center">Hi 👋, I'm Ouissal</h1>
 <p align="center">
