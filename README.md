@@ -121,7 +121,7 @@ I work on very strong and innovative project ideas combining:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
