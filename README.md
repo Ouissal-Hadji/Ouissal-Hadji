@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Ouissal%20Hadji&fontSize=40&fontColor=ffffff" />
 </p>
-<h1 align="center">Hi 👋, I'm Ouissal</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+3D+Builder;Problem+Solver;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+3D+Builder;System+Design+Learner;Security+Focused+Developer" />
 </p>
+
 <p align="center">
 Software Engineering Student | Full-Stack Developer | AI & Systems Builder
 </p>
@@ -12,29 +13,29 @@ Software Engineering Student | Full-Stack Developer | AI & Systems Builder
 ---
 
 ## 🚀 About Me
-I am a Software Engineering student passionate about designing and building real-world, scalable, and intelligent systems.
+I am a Software Engineering student focused on building scalable, intelligent, and real-world software systems.
 
-I combine software development, AI, design, and project thinking to transform ideas into functional products.
+I combine development, AI, design, and architecture thinking to turn ideas into production-level applications.
 
-I enjoy turning ideas into real products using modern technologies.
+I specialize in **Software Project Management (software systems only)** and building structured technical solutions.
 
 ---
 
-## 🧠 What I Do
+## 🧠 Core Expertise
 - Full-Stack Web Development  
-- Software Architecture & Backend Systems  
+- Backend Architecture & System Design  
+- AI-Powered Applications  
 - UI/UX Design  
-- AI Tools & Prompt Engineering  
-- 3D & AR Development (AI-integrated experimental projects)  
-- Video & Image Creation using AI  
-- Software Project Management 
+- 3D & AR Experimental Systems  
+- Secure Software Development  
+- Software Project Management (technical focus)
 
 ---
 
 ## 💻 Programming Languages
-- Python (AI & Backend)
-- Java
-- JavaScript (Frontend & Backend)
+- Python (AI / Backend)
+- Java (Spring Boot)
+- JavaScript (Frontend / Backend)
 - C / C++
 - Assembly Language
 
@@ -44,62 +45,59 @@ I enjoy turning ideas into real products using modern technologies.
 - React.js
 - Next.js
 - Node.js
-- Spring Boot (Java)
+- Spring Boot
 - Tailwind CSS
 - Three.js
 - REST APIs (Design & Integration)
 
 ---
-## 🔐 Web Security
-- Authentication & Authorization (JWT, Sessions)
-- Secure API Design
+
+## 🔐 Security & Backend Focus
+- Authentication & Authorization (JWT / Sessions)
+- Secure API Development
 - OWASP Top 10 Awareness
-- Input Validation & Data Protection
-- Secure Backend Development Practices
-
----
-## 🗄️ Databases
-- SQL
-- Database Design & Optimization
+- Data Validation & Protection
+- Backend Security Best Practices
 
 ---
 
-## 🤖 AI & Advanced Systems
-- Prompt Engineering (Advanced Level)
-- AI Models API Integration
+## 🤖 AI & Intelligent Systems
+- Prompt Engineering (Advanced)
+- AI Model API Integration
 - AI Content Generation (Text / Image / Video)
-- AI-assisted development workflows
+- AI-Assisted Development Workflows
+- Automation using AI Tools
 
 ---
 
-## 🎨 Design & Creative Tools
+## 🎨 Design & Creative Engineering
 - Figma (UI/UX Design)
 - Canva
-- AI design tools
-- Video & image editing using AI
-- Blender (3D Modeling & 3D Asset Creation)
+- Blender (3D Modeling & Asset Creation)
+- AI Design Tools
+- Video & Image Generation with AI
 
 ---
 
 ## 📌 Current Focus
-- Building advanced full-stack + AI projects  
-- Developing 3D & AR interactive systems  
-- Publishing real-world AI-powered applications  
-- Improving system design & scalable architecture  
+- Building advanced Full-Stack + AI systems  
+- Developing 3D / AR interactive applications  
+- Publishing real-world scalable projects  
+- Improving system design & software architecture  
 
 ---
 
-## 💡 Project Vision
-I work on very strong and innovative project ideas combining:
+## 💡 Engineering Vision
+I work on high-impact ideas combining:
 - AI + Software Engineering  
 - 3D / AR + Web Systems  
-- Automation + Real-world solutions  
-
-(Some projects are currently under development and will be published soon.)
+- Automation + Intelligent Tools  
+- Real-world scalable solutions  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight" />
 </p>
@@ -110,20 +108,21 @@ I work on very strong and innovative project ideas combining:
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 🔗 GitHub: [Ouissal-Hadji](https://github.com/Ouissal-Hadji)  
 - 💼 LinkedIn: [Ouissal Hadji](https://www.linkedin.com/in/ouissal-hadji-in/)
 
 ---
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-Always building. Always learning. Always improving.
+🚀 Always building. Always learning. Always improving.
 </p>
