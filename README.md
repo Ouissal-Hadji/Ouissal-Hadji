@@ -38,6 +38,7 @@ I specialize in **Software Project Management (software systems only)** and buil
 - JavaScript (Frontend / Backend)
 - C / C++
 - Assembly Language
+- Linux (Operating System & Development Environment)
 
 ---
 
