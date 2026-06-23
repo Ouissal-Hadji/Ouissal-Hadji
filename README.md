@@ -1,125 +1,152 @@
+<div align="center">
+
+# Hi 👋 I'm Ouissal Hadji
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Builder;System+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Ouissal%20Hadji&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Ouissal Hadji
+Role: Software Engineering Student
+Location: Algeria 🇩🇿
+Focus:
+  - Full Stack Development
+  - AI Applications
+  - System Design
+  - Backend Engineering
+  - Cybersecurity
+Current Goal:
+  Building real-world scalable software
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Ouissal%20Hadji&fontSize=40&fontColor=ffffff" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,bash" />
 </p>
 
+## Frameworks & Libraries
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+3D+Builder;System+Design+Learner;Security+Focused+Developer" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind" />
 </p>
 
+## Databases
+
 <p align="center">
-Software Engineering Student | Full-Stack Developer | AI & Systems Builder
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
----
-
-## 🚀 About Me
-I am a Software Engineering student focused on building scalable, intelligent, and real-world software systems.
-
-I combine development, AI, design, and architecture thinking to turn ideas into production-level applications.
-
-I specialize in **Software Project Management (software systems only)** and building structured technical solutions.
-
----
-
-## 🧠 Core Expertise
-- Full-Stack Web Development  
-- Backend Architecture & System Design  
-- AI-Powered Applications  
-- UI/UX Design  
-- 3D & AR Experimental Systems  
-- Secure Software Development  
-- Software Project Management (technical focus)
-
----
-
-## 💻 Programming Languages
-- Python (AI / Backend)
-- Java (Spring Boot)
-- JavaScript (Frontend / Backend)
-- C / C++
-- Assembly Language
-- Linux (Operating System & Development Environment)
-
----
-
-## ⚙️ Frameworks & Technologies
-- React.js
-- Next.js
-- Node.js
-- Spring Boot
-- Tailwind CSS
-- Three.js
-- REST APIs (Design & Integration)
-
----
-
-## 🔐 Security & Backend Focus
-- Authentication & Authorization (JWT / Sessions)
-- Secure API Development
-- OWASP Top 10 Awareness
-- Data Validation & Protection
-- Backend Security Best Practices
-
----
-
-## 🤖 AI & Intelligent Systems
-- Prompt Engineering (Advanced)
-- AI Model API Integration
-- AI Content Generation (Text / Image / Video)
-- AI-Assisted Development Workflows
-- Automation using AI Tools
-
----
-
-## 🎨 Design & Creative Engineering
-- Figma (UI/UX Design)
-- Canva
-- Blender (3D Modeling & Asset Creation)
-- AI Design Tools
-- Video & Image Generation with AI
-
----
-
-## 📌 Current Focus
-- Building advanced Full-Stack + AI systems  
-- Developing 3D / AR interactive applications  
-- Publishing real-world scalable projects  
-- Improving system design & software architecture  
-
----
-
-## 💡 Engineering Vision
-I work on high-impact ideas combining:
-- AI + Software Engineering  
-- 3D / AR + Web Systems  
-- Automation + Intelligent Tools  
-- Real-world scalable solutions  
-
----
-
-## 📊 GitHub Analytics
+## Tools & Platforms
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ouissal-Hadji&theme=tokyonight" /> 
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma,blender" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+# 🤖 AI & Emerging Technologies
+
+- Prompt Engineering
+- LLM Applications
+- AI Workflow Automation
+- AI API Integration
+- Computer Vision Projects
+- Generative AI Systems
+
+---
+
+# 🔐 Security Knowledge
+
+- Authentication & Authorization
+- JWT & Session Security
+- API Security
+- OWASP Top 10
+- Secure Development Practices
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ouissal-Hadji&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ouissal-Hadji&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg" />
+
+<a href="https://github.com/Ouissal-Hadji">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ouissal-hadji-in/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-- 🔗 GitHub: [Ouissal-Hadji](https://github.com/Ouissal-Hadji)  
-- 💼 LinkedIn: [Ouissal Hadji](https://www.linkedin.com/in/ouissal-hadji-in/)
+### 💡 "Building intelligent systems that merge software, AI, and creativity."
 
----
-
-<p align="center">
-🚀 Always building. Always learning. Always improving.
-</p>
+</div>
