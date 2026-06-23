@@ -1,12 +1,43 @@
 <div align="center">
 
-# Hi 👋 I'm Ouissal Hadji
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Ouissal%20Hadji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Builder;System+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Builder;Backend+%26+System+Design+Enthusiast;Building+Ideas+Into+Reality"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Ouissal%20Hadji&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+
+### 🐱 Hello Human!
+
+*"Welcome to my GitHub profile. Feel free to explore my projects."*
+
+</div>
+
+---
+
+# 🖥 Boot Sequence
+
+```bash
+> Initializing profile...
+
+████████████████████████ 100%
+
+✔ Software Engineering Loaded
+✔ AI Modules Loaded
+✔ Backend Systems Loaded
+✔ Creative Thinking Loaded
+
+Welcome Visitor...
+```
 
 ---
 
@@ -14,76 +45,104 @@
 
 ```yaml
 Name: Ouissal Hadji
+
 Role: Software Engineering Student
+
 Location: Algeria 🇩🇿
+
 Focus:
   - Full Stack Development
   - AI Applications
-  - System Design
   - Backend Engineering
-  - Cybersecurity
-Current Goal:
-  Building real-world scalable software
+  - System Architecture
+  - Secure Software Development
+
+Mission:
+  Building intelligent and scalable software solutions.
 ```
 
 ---
 
-# 🛠 Tech Stack
+# ⚔️ Tech Arsenal
 
-## Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,bash" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nextjs,nodejs,mongodb,mysql,linux,git,github,figma,blender,vscode"/>
 
-## Frameworks & Libraries
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind" />
-</p>
-
-## Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-## Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma,blender" />
-</p>
+</div>
 
 ---
 
-# 🤖 AI & Emerging Technologies
+# 🤖 AI & Innovation
 
-- Prompt Engineering
-- LLM Applications
-- AI Workflow Automation
-- AI API Integration
-- Computer Vision Projects
-- Generative AI Systems
+```text
+▸ Prompt Engineering
+▸ AI Workflow Automation
+▸ AI API Integration
+▸ Generative AI Applications
+▸ Intelligent Software Systems
+▸ AI-Assisted Development
+```
 
 ---
 
 # 🔐 Security Knowledge
 
-- Authentication & Authorization
-- JWT & Session Security
-- API Security
-- OWASP Top 10
-- Secure Development Practices
+```text
+▸ Authentication & Authorization
+▸ JWT Security
+▸ API Security
+▸ OWASP Top 10 Awareness
+▸ Secure Development Practices
+```
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Current Quest
+
+🟢 Building Full-Stack Projects
+
+🟢 Exploring AI Agents
+
+🟢 Learning Advanced System Design
+
+🟢 Creating Scalable Applications
+
+⬜ Global Tech Empire (Coming Soon)
+
+---
+
+# 🖥 Developer Console
+
+```terminal
+visitor@github:~$ whoami
+
+Ouissal Hadji
+
+visitor@github:~$ current_status
+
+Learning
+Building
+Improving
+
+visitor@github:~$ current_focus
+
+AI + Full Stack + Architecture
+
+visitor@github:~$ mood
+
+🚀 Motivated
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +152,7 @@ Current Goal:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -109,6 +168,16 @@ Current Goal:
 
 ---
 
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ouissal-Hadji&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -119,19 +188,21 @@ Current Goal:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🤖 AI Assistant
 
-<div align="center">
+```python
+def greet_visitor():
+    print("Hello Human 👋")
+    print("Take a look at my projects!")
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ouissal-Hadji&theme=tokyonight&row=1&column=7"/>
-
-</div>
+greet_visitor()
+```
 
 ---
 
 # 🌍 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Ouissal-Hadji">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -141,12 +212,16 @@ Current Goal:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Building intelligent systems that merge software, AI, and creativity."
+## 🌌 Building the Future One Commit at a Time
+
+*"Code. Create. Improve. Repeat."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/>
