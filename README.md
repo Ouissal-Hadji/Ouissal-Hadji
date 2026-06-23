@@ -1,38 +1,34 @@
 <div align="center">
 
-# 👋 Hi, I'm Ouissal Hadji
+# Hi 👋 I'm Ouissal Hadji
 
-### Software Engineering Student • Full-Stack Developer • AI Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Builder;System+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;AI+Enthusiast;Backend+%26+System+Design+Learner;Always+Learning+Something+New"/>
-
-![](https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Ouissal%20Hadji&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
 Name: Ouissal Hadji
-
 Role: Software Engineering Student
-
 Location: Algeria 🇩🇿
-
-Interests:
+Focus:
   - Full Stack Development
-  - Artificial Intelligence
-  - Backend Engineering
+  - AI Applications
   - System Design
-  - Software Architecture
-
-Goal:
-  Build intelligent and scalable software solutions.
+  - Backend Engineering
+  - Cybersecurity
+Current Goal:
+  Building real-world scalable software
 ```
 
 ---
+
+# 🛠 Tech Stack
 
 # 💻 Languages
 
@@ -174,14 +170,26 @@ Blender
 
 ---
 
+---
+
 # 🤖 AI & Emerging Technologies
 
 - Prompt Engineering
-- AI Workflow Automation
 - LLM Applications
+- AI Workflow Automation
 - AI API Integration
-- Generative AI
-- Intelligent Software Systems
+- Computer Vision Projects
+- Generative AI Systems
+
+---
+
+# 🔐 Security Knowledge
+
+- Authentication & Authorization
+- JWT & Session Security
+- API Security
+- OWASP Top 10
+- Secure Development Practices
 
 ---
 
@@ -189,9 +197,9 @@ Blender
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -201,7 +209,7 @@ Blender
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight"/>
 
 </div>
 
@@ -217,7 +225,17 @@ Blender
 
 ---
 
-# 🏆 GitHub Achievements
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -227,9 +245,9 @@ Blender
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Ouissal-Hadji">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -239,12 +257,12 @@ Blender
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 Building intelligent software one project at a time
+### 💡 "Building intelligent systems that merge software, AI, and creativity."
 
 </div>
