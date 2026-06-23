@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Ouissal%20Hadji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# 👋 Hi, I'm Ouissal Hadji
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Builder;Backend+%26+System+Design+Enthusiast;Building+Ideas+Into+Reality"/>
+### Software Engineering Student • Full-Stack Developer • AI Builder
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;AI+Enthusiast;Backend+%26+System+Design+Learner;Always+Learning+Something+New"/>
 
 ![](https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge)
 
@@ -12,36 +12,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-
-### 🐱 Hello Human!
-
-*"Welcome to my GitHub profile. Feel free to explore my projects."*
-
-</div>
-
----
-
-# 🖥 Boot Sequence
-
-```bash
-> Initializing profile...
-
-████████████████████████ 100%
-
-✔ Software Engineering Loaded
-✔ AI Modules Loaded
-✔ Backend Systems Loaded
-✔ Creative Thinking Loaded
-
-Welcome Visitor...
-```
-
----
-
-# 🚀 About Me
+## 🚀 About Me
 
 ```yaml
 Name: Ouissal Hadji
@@ -50,93 +21,171 @@ Role: Software Engineering Student
 
 Location: Algeria 🇩🇿
 
-Focus:
+Interests:
   - Full Stack Development
-  - AI Applications
+  - Artificial Intelligence
   - Backend Engineering
-  - System Architecture
-  - Secure Software Development
+  - System Design
+  - Software Architecture
 
-Mission:
-  Building intelligent and scalable software solutions.
+Goal:
+  Build intelligent and scalable software solutions.
 ```
 
 ---
 
-# ⚔️ Tech Arsenal
+# 💻 Languages
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nextjs,nodejs,mongodb,mysql,linux,git,github,figma,blender,vscode"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="70"/><br>
+Python
+</td>
 
-</div>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="70"/><br>
+Java
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/><br>
+C++
+</td>
 
-# 🤖 AI & Innovation
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="70"/><br>
+C
+</td>
 
-```text
-▸ Prompt Engineering
-▸ AI Workflow Automation
-▸ AI API Integration
-▸ Generative AI Applications
-▸ Intelligent Software Systems
-▸ AI-Assisted Development
-```
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="70"/><br>
+JavaScript
+</td>
 
----
-
-# 🔐 Security Knowledge
-
-```text
-▸ Authentication & Authorization
-▸ JWT Security
-▸ API Security
-▸ OWASP Top 10 Awareness
-▸ Secure Development Practices
-```
-
----
-
-# 🎯 Current Quest
-
-🟢 Building Full-Stack Projects
-
-🟢 Exploring AI Agents
-
-🟢 Learning Advanced System Design
-
-🟢 Creating Scalable Applications
-
-⬜ Global Tech Empire (Coming Soon)
+</tr>
+</table>
 
 ---
 
-# 🖥 Developer Console
+# 🎨 Frontend
 
-```terminal
-visitor@github:~$ whoami
+<table>
+<tr>
 
-Ouissal Hadji
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="70"/><br>
+HTML5
+</td>
 
-visitor@github:~$ current_status
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="70"/><br>
+CSS3
+</td>
 
-Learning
-Building
-Improving
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="70"/><br>
+React
+</td>
 
-visitor@github:~$ current_focus
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="70"/><br>
+Next.js
+</td>
 
-AI + Full Stack + Architecture
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="70"/><br>
+Tailwind
+</td>
 
-visitor@github:~$ mood
-
-🚀 Motivated
-```
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# ⚙️ Backend
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="70"/><br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="70"/><br>
+Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br>
+MongoDB
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tools
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="70"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="70"/><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="70"/><br>
+Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/><br>
+VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="70"/><br>
+Figma
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="70"/><br>
+Blender
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI & Emerging Technologies
+
+- Prompt Engineering
+- AI Workflow Automation
+- LLM Applications
+- AI API Integration
+- Generative AI
+- Intelligent Software Systems
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -168,7 +217,7 @@ visitor@github:~$ mood
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -178,29 +227,7 @@ visitor@github:~$ mood
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ouissal-Hadji/github-snake/main/dist/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🤖 AI Assistant
-
-```python
-def greet_visitor():
-    print("Hello Human 👋")
-    print("Take a look at my projects!")
-
-greet_visitor()
-```
-
----
-
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -218,10 +245,6 @@ greet_visitor()
 
 <div align="center">
 
-## 🌌 Building the Future One Commit at a Time
-
-*"Code. Create. Improve. Repeat."*
+### 💡 Building intelligent software one project at a time
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/>
