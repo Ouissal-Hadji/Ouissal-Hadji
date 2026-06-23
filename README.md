@@ -29,7 +29,6 @@ Current Goal:
 ---
 
 # 🛠 Tech Stack
-
 # 💻 Languages
 
 <table>
@@ -58,6 +57,11 @@ C
 <td align="center">
 <img src="https://skillicons.dev/icons?i=javascript" width="70"/><br>
 JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="70"/><br>
+TypeScript
 </td>
 
 </tr>
@@ -92,7 +96,12 @@ Next.js
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="70"/><br>
-Tailwind
+Tailwind CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=threejs" width="70"/><br>
+Three.js
 </td>
 
 </tr>
@@ -112,17 +121,12 @@ Node.js
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=express" width="70"/><br>
-Express
+Express.js
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/><br>
-MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br>
-MongoDB
+<img src="https://skillicons.dev/icons?i=spring" width="70"/><br>
+Spring Boot
 </td>
 
 </tr>
@@ -130,7 +134,92 @@ MongoDB
 
 ---
 
-# 🛠 Tools
+# 🗄️ Databases
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="70"/><br>
+PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br>
+MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="70"/><br>
+Supabase
+</td>
+
+</tr>
+</table>
+
+---
+
+# ☁️ Hosting & Cloud
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="70"/><br>
+Vercel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" width="70"/><br>
+Netlify
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=railway" width="70"/><br>
+Railway
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=render" width="70"/><br>
+Render
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎨 Design & Creative Tools
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="70"/><br>
+Figma
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="70"/><br>
+Blender
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="70"/><br>
+Canva
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Development Tools
 
 <table>
 <tr>
@@ -155,21 +244,10 @@ Linux
 VS Code
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="70"/><br>
-Figma
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="70"/><br>
-Blender
-</td>
-
 </tr>
 </table>
 
 ---
-
 ---
 
 # 🤖 AI & Emerging Technologies
