@@ -745,11 +745,12 @@ I am particularly interested in contributing to projects involving:
 - Modern Software Architecture
 
 ---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -759,7 +760,7 @@ I am particularly interested in contributing to projects involving:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>>
+<img src="https://streak-stats.demolab.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -779,10 +780,11 @@ I am particularly interested in contributing to projects involving:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ouissal-Hadji&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ouissal-Hadji&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
+---
 ---
 
 # 🐍 Contribution Snake
