@@ -1,27 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Ouissal%20Hadji&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Ouissal+Hadji;Full-Stack+Developer;Artificial+Intelligence+Enthusiast;Computer+Vision+%7C+IoT+%7C+Backend+Engineering" />
 
-<h1>Hi 👋 I'm Ouissal Hadji</h1>
+<br>
 
 <h3>
-Full-Stack Developer • AI Enthusiast • Computer Science Student
+Building intelligent software that combines AI, scalable backend systems, and modern user experiences.
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Backend+Engineering+with+Spring+Boot+%26+Express;Computer+Vision+%26+3D+Technologies;Creating+Modern+Full-Stack+Experiences;Always+Learning+Something+New"/>
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/🎓%20Computer%20Science%20Student-University%20Constantine%202-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/📍-Algeria-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍%20Location-Algeria-0F172A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🎓-Computer%20Science%20Student-0F172A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖-Open%20to%20AI%20Projects-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Open%20to-Collaboration-14B8A6?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://ouissalhadji.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ouissalhadji.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ouissal-Hadji">
@@ -34,9 +32,13 @@ Full-Stack Developer • AI Enthusiast • Computer Science Student
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&label=Profile+Views&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
+
+---
+
+> ### 💡 *"I enjoy designing software that transforms ideas into intelligent, scalable, and impactful digital solutions."*
 
 ---
 
