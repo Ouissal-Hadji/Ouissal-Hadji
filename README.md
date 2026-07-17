@@ -749,9 +749,7 @@ I am particularly interested in contributing to projects involving:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouissal-Hadji&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ouissal-Hadji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </div>
 
@@ -761,7 +759,7 @@ I am particularly interested in contributing to projects involving:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ouissal-Hadji&theme=tokyonight&hide_border=true"/>>
 
 </div>
 
