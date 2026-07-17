@@ -1,26 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm Ouissal Hadji
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Ouissal%20Hadji&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Computer+Science+Student;Artificial+Intelligence+Engineer;Backend+Developer;Computer+Vision+%26+3D+AI+Enthusiast;Building+Real-World+Software+Solutions" />
+<h1>Hi 👋 I'm Ouissal Hadji</h1>
 
-<br>
+<h3>
+Full-Stack Developer • AI Enthusiast • Computer Science Student
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Backend+Engineering+with+Spring+Boot+%26+Express;Computer+Vision+%26+3D+Technologies;Creating+Modern+Full-Stack+Experiences;Always+Learning+Something+New"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍-Algeria-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎓-Computer%20Science%20Student-0F172A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖-Open%20to%20AI%20Projects-14B8A6?style=for-the-badge"/>
+
+<br><br>
 
 <a href="https://ouissalhadji.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Ouissal-Hadji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ouissal-hadji-in/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&label=Profile+Views&style=for-the-badge&color=2563EB"/>
 
 </div>
 
