@@ -1,44 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Ouissal+Hadji;Full-Stack+Developer;Artificial+Intelligence+Enthusiast;Computer+Vision+%7C+IoT+%7C+Backend+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Ouissal+Hadji;🤖+Full-Stack+Developer;🚀+Artificial+Intelligence+Enthusiast;🧠+Computer+Vision+%7C+IoT+%7C+Backend;✨+Building+Real-World+Software" />
 
 <br>
 
-<h3>
-Building intelligent software that combines AI, scalable backend systems, and modern user experiences.
-</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ouissal-Hadji&theme=tokyonight"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓%20Computer%20Science%20Student-University%20Constantine%202-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇩🇿%20Algeria-Computer%20Science%20Student-1F6FEB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/📍%20Location-Algeria-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-00C896?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🚀%20Open%20to-Collaboration-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-AI%20%26%20Backend-7C3AED?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://ouissalhadji.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-ouissalhadji.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ouissal-Hadji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+&nbsp;
 
 <a href="https://www.linkedin.com/in/ouissal-hadji-in/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Ouissal-Hadji">
+<img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Ouissal-Hadji&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-> ### 💡 *"I enjoy designing software that transforms ideas into intelligent, scalable, and impactful digital solutions."*
+# 👩‍💻 About Me
+
+```yaml
+Name: Ouissal Hadji
+
+Role: Full-Stack Software Developer
+
+Education:
+  Computer Science Student
+  University Constantine 2 Abdelhamid Mehri
+
+Location:
+  Algeria 🇩🇿
+
+Current Focus:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Backend Engineering
+  - Computer Vision
+  - Internet of Things
+  - System Architecture
+
+Mission:
+  Building intelligent software that combines
+  AI, scalable backend systems, and modern user experiences.
+```
+
+<div align="center">
+
+## ⚡ Tech Highlights
+
+| 🤖 AI | 💻 Full Stack | ⚙️ Backend | 👁️ Computer Vision |
+|:----:|:-------------:|:----------:|:------------------:|
+| Gemini API | React | Spring Boot | Image-to-3D |
+| Prompt Engineering | TypeScript | Express.js | Three.js |
+| AI Chatbots | Vite | REST APIs | AI Vision |
+
+</div>
+
+---
+
+> 💡 **"I enjoy turning ambitious ideas into intelligent, scalable, and user-focused software solutions."**
 
 ---
 
